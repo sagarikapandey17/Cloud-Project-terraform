@@ -1,0 +1,10 @@
+vpc_id                = "vpc-033a734abfa2681a9"
+subnet_id_private     = "subnet-0046aa2eac30c0aa7"
+subnet_id_public      = "subnet-077303a3470268153"
+webapp_security_group = "sg-0fcc04bbde718f723"
+mysql_security_group  = "sg-0da98cee4c6cb18d8"
+aws_region            = "us-east-2"
+instance_type         = "t2.micro"
+ssh_username          = "ubuntu"
+instance_volume_size  = 20
+instance_volume_type  = "gp2"
